@@ -1,0 +1,14 @@
+# requirements.txt
+langchain
+langchain-community
+langchain-google-genai
+google-generativeai
+python-dotenv
+PyMuPDF
+faiss-cpu
+fastapi
+uvicorn[standard]
+httpx
+sentence-transformers
+torch
+
