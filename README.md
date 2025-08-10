@@ -333,7 +333,7 @@ We welcome contributions! Here's how you can help:
 
 ```bash
 # Fork and clone the repository
-git clone https://github.com/yourusername/intelligent-query-retrieval-system.git
+git clone https://github.com/Ratneshtripathi07/intelligent-query-retrieval-system.git
 
 # Create a virtual environment
 python -m venv venv
@@ -398,10 +398,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Built with ❤️ for the AI community**
 
-[![Star](https://img.shields.io/github/stars/yourusername/intelligent-query-retrieval-system?style=social)](https://github.com/yourusername/intelligent-query-retrieval-system)
-[![Fork](https://img.shields.io/github/forks/yourusername/intelligent-query-retrieval-system?style=social)](https://github.com/yourusername/intelligent-query-retrieval-system)
-[![Issues](https://img.shields.io/github/issues/yourusername/intelligent-query-retrieval-system)](https://github.com/yourusername/intelligent-query-retrieval-system/issues)
+[![Star](https://img.shields.io/github/stars/Ratneshtripathi07/intelligent-query-retrieval-system?style=social)](https://github.com/yourusername/intelligent-query-retrieval-system)
+[![Fork](https://img.shields.io/github/forks/Ratneshtripathi07/intelligent-query-retrieval-system?style=social)](https://github.com/yourusername/intelligent-query-retrieval-system)
+[![Issues](https://img.shields.io/github/issues/Ratneshtripathi07/intelligent-query-retrieval-system)](https://github.com/yourusername/intelligent-query-retrieval-system/issues)
 
-**Questions? Issues? Ideas?** [Open an issue](https://github.com/yourusername/intelligent-query-retrieval-system/issues) or [start a discussion](https://github.com/yourusername/intelligent-query-retrieval-system/discussions)!
+**Questions? Issues? Ideas?** [Open an issue](https://github.com/Ratneshtripathi07/intelligent-query-retrieval-system/issues) or [start a discussion](https://github.com/yourusername/intelligent-query-retrieval-system/discussions)!
 
 </div>
